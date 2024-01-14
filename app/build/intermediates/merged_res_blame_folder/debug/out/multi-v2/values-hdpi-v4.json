@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.codelabs.objectdetection.app-mergeDebugResources-14:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/mogomaa/.gradle/caches/transforms-3/9dc0d63d14ac51651e3f3a75ca9d8214/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

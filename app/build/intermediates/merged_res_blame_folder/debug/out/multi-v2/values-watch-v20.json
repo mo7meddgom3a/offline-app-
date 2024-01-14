@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.codelabs.objectdetection.app-mergeDebugResources-14:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/mogomaa/.gradle/caches/transforms-3/9dc0d63d14ac51651e3f3a75ca9d8214/transformed/appcompat-1.2.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

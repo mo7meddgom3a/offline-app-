@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/85353751b83fa3696eed493952fb0b96/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /home/mogomaa/.gradle/caches/transforms-3/e9f79af8c82896ebd0eee471ca07dee1/transformed/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /home/mogomaa/.gradle/caches/transforms-3/c51027d6130e0ff5aebc2183a5683cb1/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mogomaa/.gradle/caches/transforms-3/56edd697990a1c2de81bd4bd7a2304ac/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/9dc0d63d14ac51651e3f3a75ca9d8214/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/4571531dd45e2d657b2151447231eeba/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/ae374adff85c8d565efb997ce1dedde1/transformed/jetified-tensorflow-lite-task-vision-0.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/f96658633009a8b6b6ff786bc6d76244/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/1ae6cfd2c1bd69fcbf2a701ca9efd81c/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/0758be6a6057768a52a3befec870418c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/1f771edd6d6d8df2d5d58443d254afbc/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/0d46c7052f623e6722e6b2651a73fb82/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/aef00a7cb4a6dec2601d58f549552267/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/f2c4c8c20e595addf151911b0da06c15/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/06d0fa74642bb93852765e51307c8ad5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/b7313f60eb85802df7a87ed0d943d74e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/0d58d17094314265f21fe1a070fe0b49/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/3b59c943f8658b2e55082fe8dad629ba/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/0808c51d577a18b402e5d812c4411fe4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/f84de23dfd55e677eee8ff4dcd021514/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/d2b40db84c66e2f77c3329900f89f474/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/1870c00724af064a60fd295fa51e53c6/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/9ded98daf93056732743660306538a9e/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/307dca06183ff7a9d8364efa3abcd478/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/e31737f43d1dee3c17b3bc783b1be457/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/mogomaa/.gradle/caches/transforms-3/7a49af95eb0070b1bcf323f74b7fd123/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/27140bba25090c715df5df63a931f68a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mogomaa/.gradle/caches/transforms-3/e1843b02c5fc50cedd25f356e2f844a9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mogomaa/.gradle/caches/transforms-3/526841f25ff9917f0fadb0feed8704d1/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mogomaa/.gradle/caches/transforms-3/4e78d9c1d61bb438621a2becc39ac5aa/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/b3931db5857fbf31b65e8a36c7dabac7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/mogomaa/.gradle/caches/transforms-3/b66020ff326e6f9b08c88c8b0d09a70a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/22796b2589330301aa8f02fb91e97ce3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/06b5b2c7481e9a22eddf09cfee2c2520/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/e0536a92925fa63aac2fab4a0dd62c1f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/311f676b009d58c9e7aba2328681133d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/3cc45549234c283ae1a4482f0c5ce90f/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/243b563ad4456719c53209995c15ac87/transformed/jetified-tensorflow-lite-task-base-0.3.1/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/669d21207cfda6656ebad5555d380720/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/mogomaa/.gradle/caches/transforms-3/957c22ab31dc78b647bc83ad0518b3b2/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/mogomaa/.gradle/caches/transforms-3/28452d8a24122532dbcd9a70126bce7f/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:11-69
+queries
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:5:5-9:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:6:9-8:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:7:13-73
+	android:name
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:7:21-70
+application
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:11:5-35:19
+MERGED from [com.google.android.material:material:1.3.0] /home/mogomaa/.gradle/caches/transforms-3/c51027d6130e0ff5aebc2183a5683cb1/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/mogomaa/.gradle/caches/transforms-3/c51027d6130e0ff5aebc2183a5683cb1/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mogomaa/.gradle/caches/transforms-3/56edd697990a1c2de81bd4bd7a2304ac/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mogomaa/.gradle/caches/transforms-3/56edd697990a1c2de81bd4bd7a2304ac/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/9ded98daf93056732743660306538a9e/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/9ded98daf93056732743660306538a9e/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/27140bba25090c715df5df63a931f68a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/27140bba25090c715df5df63a931f68a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/243b563ad4456719c53209995c15ac87/transformed/jetified-tensorflow-lite-task-base-0.3.1/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/243b563ad4456719c53209995c15ac87/transformed/jetified-tensorflow-lite-task-base-0.3.1/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/mogomaa/.gradle/caches/transforms-3/957c22ab31dc78b647bc83ad0518b3b2/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/mogomaa/.gradle/caches/transforms-3/957c22ab31dc78b647bc83ad0518b3b2/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/mogomaa/.gradle/caches/transforms-3/28452d8a24122532dbcd9a70126bce7f/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/mogomaa/.gradle/caches/transforms-3/28452d8a24122532dbcd9a70126bce7f/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/9ded98daf93056732743660306538a9e/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:17:9-53
+activity#org.tensorflow.codelabs.objectdetection.MainActivity
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:18:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:22:27-74
+provider#androidx.core.content.FileProvider
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:grantUriPermissions
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:30:13-47
+	android:authorities
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:28:13-87
+	android:exported
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:27:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:31:13-33:54
+	android:resource
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:33:17-51
+	android:name
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:32:17-67
+uses-sdk
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/85353751b83fa3696eed493952fb0b96/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/85353751b83fa3696eed493952fb0b96/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /home/mogomaa/.gradle/caches/transforms-3/e9f79af8c82896ebd0eee471ca07dee1/transformed/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /home/mogomaa/.gradle/caches/transforms-3/e9f79af8c82896ebd0eee471ca07dee1/transformed/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /home/mogomaa/.gradle/caches/transforms-3/c51027d6130e0ff5aebc2183a5683cb1/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/mogomaa/.gradle/caches/transforms-3/c51027d6130e0ff5aebc2183a5683cb1/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mogomaa/.gradle/caches/transforms-3/56edd697990a1c2de81bd4bd7a2304ac/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mogomaa/.gradle/caches/transforms-3/56edd697990a1c2de81bd4bd7a2304ac/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/9dc0d63d14ac51651e3f3a75ca9d8214/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/9dc0d63d14ac51651e3f3a75ca9d8214/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/4571531dd45e2d657b2151447231eeba/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/4571531dd45e2d657b2151447231eeba/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/ae374adff85c8d565efb997ce1dedde1/transformed/jetified-tensorflow-lite-task-vision-0.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/ae374adff85c8d565efb997ce1dedde1/transformed/jetified-tensorflow-lite-task-vision-0.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/f96658633009a8b6b6ff786bc6d76244/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/f96658633009a8b6b6ff786bc6d76244/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/1ae6cfd2c1bd69fcbf2a701ca9efd81c/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/1ae6cfd2c1bd69fcbf2a701ca9efd81c/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/0758be6a6057768a52a3befec870418c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/0758be6a6057768a52a3befec870418c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/1f771edd6d6d8df2d5d58443d254afbc/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/1f771edd6d6d8df2d5d58443d254afbc/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/0d46c7052f623e6722e6b2651a73fb82/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/0d46c7052f623e6722e6b2651a73fb82/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/aef00a7cb4a6dec2601d58f549552267/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/aef00a7cb4a6dec2601d58f549552267/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/f2c4c8c20e595addf151911b0da06c15/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/mogomaa/.gradle/caches/transforms-3/f2c4c8c20e595addf151911b0da06c15/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/06d0fa74642bb93852765e51307c8ad5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/06d0fa74642bb93852765e51307c8ad5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/b7313f60eb85802df7a87ed0d943d74e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/b7313f60eb85802df7a87ed0d943d74e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/0d58d17094314265f21fe1a070fe0b49/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/0d58d17094314265f21fe1a070fe0b49/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/3b59c943f8658b2e55082fe8dad629ba/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/3b59c943f8658b2e55082fe8dad629ba/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/0808c51d577a18b402e5d812c4411fe4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/0808c51d577a18b402e5d812c4411fe4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/f84de23dfd55e677eee8ff4dcd021514/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/f84de23dfd55e677eee8ff4dcd021514/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/d2b40db84c66e2f77c3329900f89f474/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/d2b40db84c66e2f77c3329900f89f474/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/1870c00724af064a60fd295fa51e53c6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/1870c00724af064a60fd295fa51e53c6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/9ded98daf93056732743660306538a9e/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/mogomaa/.gradle/caches/transforms-3/9ded98daf93056732743660306538a9e/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/307dca06183ff7a9d8364efa3abcd478/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/307dca06183ff7a9d8364efa3abcd478/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/e31737f43d1dee3c17b3bc783b1be457/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/e31737f43d1dee3c17b3bc783b1be457/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/mogomaa/.gradle/caches/transforms-3/7a49af95eb0070b1bcf323f74b7fd123/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /home/mogomaa/.gradle/caches/transforms-3/7a49af95eb0070b1bcf323f74b7fd123/transformed/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/27140bba25090c715df5df63a931f68a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mogomaa/.gradle/caches/transforms-3/27140bba25090c715df5df63a931f68a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mogomaa/.gradle/caches/transforms-3/e1843b02c5fc50cedd25f356e2f844a9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mogomaa/.gradle/caches/transforms-3/e1843b02c5fc50cedd25f356e2f844a9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mogomaa/.gradle/caches/transforms-3/526841f25ff9917f0fadb0feed8704d1/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mogomaa/.gradle/caches/transforms-3/526841f25ff9917f0fadb0feed8704d1/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mogomaa/.gradle/caches/transforms-3/4e78d9c1d61bb438621a2becc39ac5aa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mogomaa/.gradle/caches/transforms-3/4e78d9c1d61bb438621a2becc39ac5aa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/b3931db5857fbf31b65e8a36c7dabac7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/b3931db5857fbf31b65e8a36c7dabac7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/mogomaa/.gradle/caches/transforms-3/b66020ff326e6f9b08c88c8b0d09a70a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/mogomaa/.gradle/caches/transforms-3/b66020ff326e6f9b08c88c8b0d09a70a/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/22796b2589330301aa8f02fb91e97ce3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/22796b2589330301aa8f02fb91e97ce3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/06b5b2c7481e9a22eddf09cfee2c2520/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/06b5b2c7481e9a22eddf09cfee2c2520/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/e0536a92925fa63aac2fab4a0dd62c1f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/e0536a92925fa63aac2fab4a0dd62c1f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/311f676b009d58c9e7aba2328681133d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/311f676b009d58c9e7aba2328681133d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/3cc45549234c283ae1a4482f0c5ce90f/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mogomaa/.gradle/caches/transforms-3/3cc45549234c283ae1a4482f0c5ce90f/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/669d21207cfda6656ebad5555d380720/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] /home/mogomaa/.gradle/caches/transforms-3/669d21207cfda6656ebad5555d380720/transformed/jetified-tensorflow-lite-support-api-0.3.1/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/mogomaa/.gradle/caches/transforms-3/957c22ab31dc78b647bc83ad0518b3b2/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /home/mogomaa/.gradle/caches/transforms-3/957c22ab31dc78b647bc83ad0518b3b2/transformed/jetified-tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/mogomaa/.gradle/caches/transforms-3/28452d8a24122532dbcd9a70126bce7f/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/mogomaa/.gradle/caches/transforms-3/28452d8a24122532dbcd9a70126bce7f/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		ADDED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		MERGED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/mogomaa/Downloads/odml-pathways-main/object-detection/codelab2/android/final/app/src/main/AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
